@@ -1,0 +1,1549 @@
+do	du	10	d	u
+did	dId	100	d	Id
+done	dVn	100	d	Vn
+doing	duIN	1000	d	uIN
+done	dVn	100	d	Vn
+does	dVz	100	d	Vz
+say	s1	10	s	1
+said	sEd	100	s	Ed
+said	sEd	100	s	Ed
+saying	s1IN	1000	s	1IN
+says	s1z	100	s	1z
+get	gEt	101	gt	E
+got	gQt	101	gt	Q
+gotten	gQtH	1010	gt	QH
+got	gQt	101	gt	Q
+getting	gEtIN	10100	gt	EIN
+gotten	gQtH	1010	gt	QH
+gets	gEts	1010	gt	Es
+make	m1k	110	m1	k
+made	m1d	110	m1	d
+made	m1d	110	m1	d
+making	m1kIN	11000	m1	kIN
+makes	m1ks	1100	m1	ks
+know	n5	10	n	5
+knew	nju	100	n	ju
+known	n5n	100	n	5n
+knowing	n5IN	1000	n	5IN
+known	n5n	100	n	5n
+knows	n5z	100	n	5z
+see	si	10	s	i
+saw	s$	10	s	$
+seen	sin	100	s	in
+seeing	siIN	1000	s	iIN
+seen	sin	100	s	in
+sees	siz	100	s	iz
+think	TINk	1000	T	INk
+thought	T$t	100	T	$t
+thought	T$t	100	T	$t
+thinking	TINkIN	100000	T	INkIN
+thinks	TINks	10000	T	INks
+come	kVm	101	km	V
+came	k1m	101	km	1
+come	kVm	101	km	V
+coming	kVmIN	10100	km	VIN
+comes	kVmz	1010	km	Vz
+take	t1k	101	tk	1
+took	tUk	101	tk	U
+taken	t1k@n	10100	tk	1@n
+taking	t1kIN	10100	tk	1IN
+taken	t1k@n	10100	tk	1@n
+takes	t1ks	1010	tk	1s
+look	lUk	111	lUk	
+looked	lUkt	1110	lUk	t
+looked	lUkt	1110	lUk	t
+looking	lUkIN	11100	lUk	IN
+looks	lUks	1110	lUk	s
+give	gIv	101	gv	I
+gave	g1v	101	gv	1
+given	gIvH	1010	gv	IH
+giving	gIvIN	10100	gv	IIN
+given	gIvH	1010	gv	IH
+gives	gIvz	1010	gv	Iz
+want	wQnt	1111	wQnt	
+wanted	wQntId	111100	wQnt	Id
+wanted	wQntId	111100	wQnt	Id
+wanting	wQntIN	111100	wQnt	IN
+wants	wQnts	11110	wQnt	s
+find	f2nd	1011	fnd	2
+found	f6nd	1011	fnd	6
+found	f6nd	1011	fnd	6
+finding	f2ndIN	101100	fnd	2IN
+finds	f2ndz	10110	fnd	2z
+tell	tEl	101	tl	E
+told	t5ld	1010	tl	5d
+told	t5ld	1010	tl	5d
+telling	tElIN	10100	tl	EIN
+tells	tElz	1010	tl	Ez
+use	juz	111	juz	
+used	juzd	1110	juz	d
+used	juzd	1110	juz	d
+using	juzIN	11100	juz	IN
+uses	juzIz	11100	juz	Iz
+seem	sim	111	sim	
+seemed	simd	1110	sim	d
+seemed	simd	1110	sim	d
+seeming	simIN	11100	sim	IN
+seems	simz	1110	sim	z
+feel	fil	101	fl	i
+felt	fElt	1010	fl	Et
+felt	fElt	1010	fl	Et
+feeling	filIN	10100	fl	iIN
+feels	filz	1010	fl	iz
+become	bIkVm	11101	bIkm	V
+became	bIk1m	11101	bIkm	1
+become	bIkVm	11101	bIkm	V
+becoming	bIkVmIN	1110100	bIkm	VIN
+becomes	bIkVmz	111010	bIkm	Vz
+ask	#sk	111	#sk	
+asked	#skt	1110	#sk	t
+asked	#skt	1110	#sk	t
+asking	#skIN	11100	#sk	IN
+asks	#sks	1110	#sk	s
+put	pUt	111	pUt	
+put	pUt	111	pUt	
+put	pUt	111	pUt	
+putting	pUtIN	11100	pUt	IN
+puts	pUts	1110	pUt	s
+leave	liv	100	l	iv
+left	lEft	1000	l	Eft
+left	lEft	1000	l	Eft
+leaving	livIN	10000	l	ivIN
+leaves	livz	1000	l	ivz
+try	tr2	111	tr2	
+tried	tr2d	1110	tr2	d
+tried	tr2d	1110	tr2	d
+trying	tr2IN	11100	tr2	IN
+tries	tr2z	1110	tr2	z
+mean	min	101	mn	i
+meant	mEnt	1010	mn	Et
+meant	mEnt	1010	mn	Et
+meaning	minIN	10100	mn	iIN
+means	minz	1010	mn	iz
+call	k$l	111	k$l	
+called	k$ld	1110	k$l	d
+called	k$ld	1110	k$l	d
+calling	k$lIN	11100	k$l	IN
+calls	k$lz	1110	k$l	z
+begin	bIgIn	11101	bIgn	I
+began	bIg{n	11101	bIgn	{
+begun	bIgVn	11101	bIgn	V
+beginning	bIgInIN	1110100	bIgn	IIN
+begun	bIgVn	11101	bIgn	V
+begins	bIgInz	111010	bIgn	Iz
+keep	kip	101	kp	i
+kept	kEpt	1010	kp	Et
+kept	kEpt	1010	kp	Et
+keeping	kipIN	10100	kp	iIN
+keeps	kips	1010	kp	is
+turn	t3n	111	t3n	
+turned	t3nd	1110	t3n	d
+turned	t3nd	1110	t3n	d
+turning	t3nIN	11100	t3n	IN
+turns	t3nz	1110	t3n	z
+need	nid	111	nid	
+needed	nidId	11100	nid	Id
+needed	nidId	11100	nid	Id
+needing	nidIN	11100	nid	IN
+needs	nidz	1110	nid	z
+work	w3k	111	w3k	
+worked	w3kt	1110	w3k	t
+worked	w3kt	1110	w3k	t
+working	w3kIN	11100	w3k	IN
+works	w3ks	1110	w3k	s
+live	lIv	111	lIv	
+lived	lIvd	1110	lIv	d
+lived	lIvd	1110	lIv	d
+living	lIvIN	11100	lIv	IN
+lives	lIvz	1110	lIv	z
+bring	brIN	1100	br	IN
+brought	br$t	1100	br	$t
+brought	br$t	1100	br	$t
+bringing	brININ	110000	br	ININ
+brings	brINz	11000	br	INz
+talk	t$k	111	t$k	
+talked	t$kt	1110	t$k	t
+talked	t$kt	1110	t$k	t
+talking	t$kIN	11100	t$k	IN
+talks	t$ks	1110	t$k	s
+hear	h7r	101	hr	7
+heard	h3rd	1010	hr	3d
+heard	h3rd	1010	hr	3d
+hearing	h7rIN	10100	hr	7IN
+hears	h7rz	1010	hr	7z
+sit	sIt	101	st	I
+sat	s{t	101	st	{
+sat	s{t	101	st	{
+sitting	sItIN	10100	st	IIN
+sits	sIts	1010	st	Is
+show	S5	11	S5	
+showed	S5d	110	S5	d
+shown	S5n	110	S5	n
+showed	S5d	110	S5	d
+showing	S5IN	1100	S5	IN
+shown	S5n	110	S5	n
+shows	S5z	110	S5	z
+stand	st{nd	11000	st	{nd
+stood	stUd	1100	st	Ud
+stood	stUd	1100	st	Ud
+standing	st{ndIN	1100000	st	{ndIN
+stands	st{ndz	110000	st	{ndz
+hold	h5ld	1011	hld	5
+held	hEld	1011	hld	E
+held	hEld	1011	hld	E
+holding	h5ldIN	101100	hld	5IN
+holds	h5ldz	10110	hld	5z
+write	r2t	101	rt	2
+wrote	r5t	101	rt	5
+written	rItH	1010	rt	IH
+writing	r2tIN	10100	rt	2IN
+written	rItH	1010	rt	IH
+writes	r2ts	1010	rt	2s
+change	J1n_	1111	J1n_	
+changed	J1n_d	11110	J1n_	d
+changed	J1n_d	11110	J1n_	d
+changing	J1n_IN	111100	J1n_	IN
+changes	J1n_Iz	111100	J1n_	Iz
+start	st#t	1111	st#t	
+started	st#tId	111100	st#t	Id
+started	st#tId	111100	st#t	Id
+starting	st#tIN	111100	st#t	IN
+starts	st#ts	11110	st#t	s
+run	rVn	101	rn	V
+ran	r{n	101	rn	{
+run	rVn	101	rn	V
+running	rVnIN	10100	rn	VIN
+runs	rVnz	1010	rn	Vz
+happen	h{p@n	11111	h{p@n	
+happened	h{p@nd	111110	h{p@n	d
+happened	h{p@nd	111110	h{p@n	d
+happening	h{p@nIN	1111100	h{p@n	IN
+happens	h{p@nz	111110	h{p@n	z
+let	lEt	111	lEt	
+let	lEt	111	lEt	
+let	lEt	111	lEt	
+letting	lEtIN	11100	lEt	IN
+lets	lEts	1110	lEt	s
+move	muv	111	muv	
+moved	muvd	1110	muv	d
+moved	muvd	1110	muv	d
+moving	muvIN	11100	muv	IN
+moves	muvz	1110	muv	z
+believe	bIliv	11111	bIliv	
+believed	bIlivd	111110	bIliv	d
+believed	bIlivd	111110	bIliv	d
+believing	bIlivIN	1111100	bIliv	IN
+believes	bIlivz	111110	bIliv	z
+play	pl1	111	pl1	
+played	pl1d	1110	pl1	d
+played	pl1d	1110	pl1	d
+playing	pl1IN	11100	pl1	IN
+plays	pl1z	1110	pl1	z
+help	hElp	1111	hElp	
+helped	hElpt	11110	hElp	t
+helped	hElpt	11110	hElp	t
+helping	hElpIN	111100	hElp	IN
+helps	hElps	11110	hElp	s
+read	rid	101	rd	i
+read	rEd	101	rd	E
+read	rEd	101	rd	E
+reading	ridIN	10100	rd	iIN
+reads	ridz	1010	rd	iz
+speak	spik	1101	spk	i
+spoke	sp5k	1101	spk	5
+spoken	sp5k@n	11010	spk	5@
+speaking	spikIN	110100	spk	iIN
+spoken	sp5k@n	11010	spk	5@
+speaks	spiks	11010	spk	is
+remember	rImEmb@r	11111111	rImEmb@r	
+remembered	rImEmb@rd	111111110	rImEmb@r	d
+remembered	rImEmb@rd	111111110	rImEmb@r	d
+remembering	rImEmb@rIN	1111111100	rImEmb@r	IN
+remembers	rImEmb@rz	111111110	rImEmb@r	z
+pay	p1	11	p1	
+paid	p1d	110	p1	d
+paid	p1d	110	p1	d
+paying	p1IN	1100	p1	IN
+pays	p1z	110	p1	z
+grow	gr5	110	gr	5
+grew	gru	110	gr	u
+grown	gr5n	1100	gr	5n
+growing	gr5IN	11000	gr	5IN
+grown	gr5n	1100	gr	5n
+grows	gr5z	1100	gr	5z
+lose	luz	100	l	uz
+lost	lQst	1000	l	Qst
+lost	lQst	1000	l	Qst
+losing	luzIN	10000	l	uzIN
+loses	luzIz	10000	l	uzIz
+stop	stQp	1111	stQp	
+stopped	stQpt	11110	stQp	t
+stopped	stQpt	11110	stQp	t
+stopping	stQpIN	111100	stQp	IN
+stops	stQps	11110	stQp	s
+like	l2k	111	l2k	
+liked	l2kt	1110	l2k	t
+liked	l2kt	1110	l2k	t
+liking	l2kIN	11100	l2k	IN
+likes	l2ks	1110	l2k	s
+wait	w1t	111	w1t	
+waited	w1tId	11100	w1t	Id
+waited	w1tId	11100	w1t	Id
+waiting	w1tIN	11100	w1t	IN
+waits	w1ts	1110	w1t	s
+set	sEt	111	sEt	
+set	sEt	111	sEt	
+set	sEt	111	sEt	
+setting	sEtIN	11100	sEt	IN
+sets	sEts	1110	sEt	s
+carry	k{rI	1111	k{rI	
+carried	k{rId	11110	k{rI	d
+carried	k{rId	11110	k{rI	d
+carrying	k{rIIN	111100	k{rI	IN
+carries	k{rIz	11110	k{rI	z
+walk	w$k	111	w$k	
+walked	w$kt	1110	w$k	t
+walked	w$kt	1110	w$k	t
+walking	w$kIN	11100	w$k	IN
+walks	w$ks	1110	w$k	s
+learn	l3n	111	l3n	
+learnt	l3nt	1110	l3n	t
+learned	l3nd	1110	l3n	d
+learned	l3nd	1110	l3n	d
+learnt	l3nt	1110	l3n	t
+learning	l3nIN	11100	l3n	IN
+learned	l3nd	1110	l3n	d
+learned	l3nd	1110	l3n	d
+learns	l3nz	1110	l3n	z
+follow	fQl5	1111	fQl5	
+followed	fQl5d	11110	fQl5	d
+followed	fQl5d	11110	fQl5	d
+following	fQl5IN	111100	fQl5	IN
+follows	fQl5z	11110	fQl5	z
+lead	lid	101	ld	i
+led	lEd	101	ld	E
+led	lEd	101	ld	E
+leading	lidIN	10100	ld	iIN
+leads	lidz	1010	ld	iz
+fall	f$l	101	fl	$
+fell	fEl	101	fl	E
+fallen	f$l@n	10100	fl	$@n
+falling	f$lIN	10100	fl	$IN
+fallen	f$l@n	10100	fl	$@n
+falls	f$lz	1010	fl	$z
+appear	@p7r	1111	@p7r	
+appeared	@p7rd	11110	@p7r	d
+appeared	@p7rd	11110	@p7r	d
+appearing	@p7rIN	111100	@p7r	IN
+appears	@p7rz	11110	@p7r	z
+understand	Vnd@st{nd	111111000	Vnd@st	{nd
+understood	Vnd@stud	11111100	Vnd@st	ud
+understood	Vnd@stud	11111100	Vnd@st	ud
+understanding	Vnd@st{ndIN	11111100000	Vnd@st	{ndIN
+understands	Vnd@st{ndz	1111110000	Vnd@st	{ndz
+eat	it	01	t	i
+ate	Et	01	t	E
+eaten	itH	010	t	iH
+eating	itIN	0100	t	iIN
+eaten	itH	010	t	iH
+eats	its	010	t	is
+expect	IkspEkt	1111111	IkspEkt	
+expected	IkspEktId	111111100	IkspEkt	Id
+expected	IkspEktId	111111100	IkspEkt	Id
+expecting	IkspEktIN	111111100	IkspEkt	IN
+expects	IkspEkts	11111110	IkspEkt	s
+spend	spEnd	11110	spEn	d
+spent	spEnt	11110	spEn	t
+spent	spEnt	11110	spEn	t
+spending	spEndIN	1111000	spEn	dIN
+spends	spEndz	111100	spEn	dz
+send	sEnd	1110	sEn	d
+sent	sEnt	1110	sEn	t
+sent	sEnt	1110	sEn	t
+sending	sEndIN	111000	sEn	dIN
+sends	sEndz	11100	sEn	dz
+allow	@l6	111	@l6	
+allowed	@l6d	1110	@l6	d
+allowed	@l6d	1110	@l6	d
+allowing	@l6IN	11100	@l6	IN
+allows	@l6z	1110	@l6	z
+continue	k@ntInju	11111111	k@ntInju	
+continued	k@ntInjud	111111110	k@ntInju	d
+continued	k@ntInjud	111111110	k@ntInju	d
+continuing	k@ntInjuIN	1111111100	k@ntInju	IN
+continues	k@ntInjuz	111111110	k@ntInju	z
+remain	rIm1n	11111	rIm1n	
+remained	rIm1nd	111110	rIm1n	d
+remained	rIm1nd	111110	rIm1n	d
+remaining	rIm1nIN	1111100	rIm1n	IN
+remains	rIm1nz	111110	rIm1n	z
+pass	p#s	111	p#s	
+passed	p#st	1110	p#s	t
+passed	p#st	1110	p#s	t
+passing	p#sIN	11100	p#s	IN
+passes	p#sIz	11100	p#s	Iz
+provide	pr@v2d	111111	pr@v2d	
+provided	pr@v2dId	11111100	pr@v2d	Id
+provided	pr@v2dId	11111100	pr@v2d	Id
+providing	pr@v2dIN	11111100	pr@v2d	IN
+provides	pr@v2dz	1111110	pr@v2d	z
+buy	b2	10	b	2
+bought	b$t	100	b	$t
+bought	b$t	100	b	$t
+buying	b2IN	1000	b	2IN
+buys	b2z	100	b	2z
+reach	riJ	111	riJ	
+reached	riJt	1110	riJ	t
+reached	riJt	1110	riJ	t
+reaching	riJIN	11100	riJ	IN
+reaches	riJIz	11100	riJ	Iz
+develop	dIvEl@p	1111111	dIvEl@p	
+developed	dIvEl@pt	11111110	dIvEl@p	t
+developed	dIvEl@pt	11111110	dIvEl@p	t
+developing	dIvEl@pIN	111111100	dIvEl@p	IN
+develops	dIvEl@ps	11111110	dIvEl@p	s
+stay	st1	111	st1	
+stayed	st1d	1110	st1	d
+stayed	st1d	1110	st1	d
+staying	st1IN	11100	st1	IN
+stays	st1z	1110	st1	z
+watch	wQJ	111	wQJ	
+watched	wQJt	1110	wQJ	t
+watched	wQJt	1110	wQJ	t
+watching	wQJIN	11100	wQJ	IN
+watches	wQJIz	11100	wQJ	Iz
+decide	dIs2d	11111	dIs2d	
+decided	dIs2dId	1111100	dIs2d	Id
+decided	dIs2dId	1111100	dIs2d	Id
+deciding	dIs2dIN	1111100	dIs2d	IN
+decides	dIs2dz	111110	dIs2d	z
+produce	pr@djus	1111111	pr@djus	
+produced	pr@djust	11111110	pr@djus	t
+produced	pr@djust	11111110	pr@djus	t
+producing	pr@djusIN	111111100	pr@djus	IN
+produces	pr@djusIz	111111100	pr@djus	Iz
+wear	w8r	101	wr	8
+wore	w$r	101	wr	$
+worn	w$rn	1010	wr	$n
+wearing	w8rIN	10100	wr	8IN
+worn	w$rn	1010	wr	$n
+wears	w8rz	1010	wr	8z
+build	bIld	1110	bIl	d
+built	bIlt	1110	bIl	t
+built	bIlt	1110	bIl	t
+building	bIldIN	111000	bIl	dIN
+builds	bIldz	11100	bIl	dz
+die	d2	11	d2	
+died	d2d	110	d2	d
+died	d2d	110	d2	d
+dying	d2IN	1100	d2	IN
+dies	d2z	110	d2	z
+love	lVv	111	lVv	
+loved	lVvd	1110	lVv	d
+loved	lVvd	1110	lVv	d
+loving	lVvIN	11100	lVv	IN
+loves	lVvz	1110	lVv	z
+add	{d	11	{d	
+added	{dId	1100	{d	Id
+added	{dId	1100	{d	Id
+adding	{dIN	1100	{d	IN
+adds	{dz	110	{d	z
+meet	mit	101	mt	i
+met	mEt	101	mt	E
+met	mEt	101	mt	E
+meeting	mitIN	10100	mt	iIN
+meets	mits	1010	mt	is
+increase	Inkris	111111	Inkris	
+increased	Inkrist	1111110	Inkris	t
+increased	Inkrist	1111110	Inkris	t
+increasing	InkrisIN	11111100	Inkris	IN
+increases	InkrisIz	11111100	Inkris	Iz
+open	5p@n	1111	5p@n	
+opened	5p@nd	11110	5p@n	d
+opened	5p@nd	11110	5p@n	d
+opening	5p@nIN	111100	5p@n	IN
+opens	5p@nz	11110	5p@n	z
+suggest	s@_Est	111111	s@_Est	
+suggested	s@_EstId	11111100	s@_Est	Id
+suggested	s@_EstId	11111100	s@_Est	Id
+suggesting	s@_EstIN	11111100	s@_Est	IN
+suggests	s@_Ests	1111110	s@_Est	s
+break	br1k	1101	brk	1
+broke	br5k	1101	brk	5
+broken	br5k@n	11010	brk	5@
+breaking	br1kIN	110100	brk	1IN
+broken	br5k@n	11010	brk	5@
+breaks	br1ks	11010	brk	1s
+hope	h5p	111	h5p	
+hoped	h5pt	1110	h5p	t
+hoped	h5pt	1110	h5p	t
+hoping	h5pIN	11100	h5p	IN
+hopes	h5ps	1110	h5p	s
+suppose	s@p5z	11111	s@p5z	
+supposed	s@p5zd	111110	s@p5z	d
+supposed	s@p5zd	111110	s@p5z	d
+supposing	s@p5zIN	1111100	s@p5z	IN
+supposes	s@p5zIz	1111100	s@p5z	Iz
+return	rIt3n	11111	rIt3n	
+returned	rIt3nd	111110	rIt3n	d
+returned	rIt3nd	111110	rIt3n	d
+returning	rIt3nIN	1111100	rIt3n	IN
+returns	rIt3nz	111110	rIt3n	z
+drive	dr2v	1101	drv	2
+drove	dr5v	1101	drv	5
+driven	drIvH	11010	drv	IH
+driving	dr2vIN	110100	drv	2IN
+driven	drIvH	11010	drv	IH
+drives	dr2vz	11010	drv	2z
+draw	dr$	110	dr	$
+drew	dru	110	dr	u
+drawn	dr$n	1100	dr	$n
+drawing	dr$IN	11000	dr	$IN
+drawn	dr$n	1100	dr	$n
+draws	dr$z	1100	dr	$z
+involve	InvQlv	111111	InvQlv	
+involved	InvQlvd	1111110	InvQlv	d
+involved	InvQlvd	1111110	InvQlv	d
+involving	InvQlvIN	11111100	InvQlv	IN
+involves	InvQlvz	1111110	InvQlv	z
+kill	kIl	111	kIl	
+killed	kIld	1110	kIl	d
+killed	kIld	1110	kIl	d
+killing	kIlIN	11100	kIl	IN
+kills	kIlz	1110	kIl	z
+consider	k@nsId@r	11111111	k@nsId@r	
+considered	k@nsId@rd	111111110	k@nsId@r	d
+considered	k@nsId@rd	111111110	k@nsId@r	d
+considering	k@nsId@rIN	1111111100	k@nsId@r	IN
+considers	k@nsId@rz	111111110	k@nsId@r	z
+accept	@ksEpt	111111	@ksEpt	
+accepted	@ksEptId	11111100	@ksEpt	Id
+accepted	@ksEptId	11111100	@ksEpt	Id
+accepting	@ksEptIN	11111100	@ksEpt	IN
+accepts	@ksEpts	1111110	@ksEpt	s
+offer	Qf@r	1111	Qf@r	
+offered	Qf@rd	11110	Qf@r	d
+offered	Qf@rd	11110	Qf@r	d
+offering	Qf@rIN	111100	Qf@r	IN
+offers	Qf@rz	11110	Qf@r	z
+lie	l2	10	l	2
+lay	l1	10	l	1
+lied	l2d	110	l2	d
+lied	l2d	100	l	2d
+lying	l2IN	1000	l	2IN
+lied	l2d	100	l	2d
+lied	l2d	100	l	2d
+lies	l2z	100	l	2z
+realize	r7l2z	11111	r7l2z	
+realized	r7l2zd	111110	r7l2z	d
+realized	r7l2zd	111110	r7l2z	d
+realizing	r7l2zIN	1111100	r7l2z	IN
+realizes	r7l2zIz	1111100	r7l2z	Iz
+explain	Ikspl1n	1111111	Ikspl1n	
+explained	Ikspl1nd	11111110	Ikspl1n	d
+explained	Ikspl1nd	11111110	Ikspl1n	d
+explaining	Ikspl1nIN	111111100	Ikspl1n	IN
+explains	Ikspl1nz	11111110	Ikspl1n	z
+rise	r2z	101	rz	2
+rose	r5z	101	rz	5
+risen	rIzH	1010	rz	IH
+rising	r2zIN	10100	rz	2IN
+risen	rIzH	1010	rz	IH
+rises	r2zIz	10100	rz	2Iz
+catch	k{J	100	k	{J
+caught	k$t	100	k	$t
+caught	k$t	100	k	$t
+catching	k{JIN	10000	k	{JIN
+catches	k{JIz	10000	k	{JIz
+agree	@gri	1111	@gri	
+agreed	@grid	11110	@gri	d
+agreed	@grid	11110	@gri	d
+agreeing	@griIN	111100	@gri	IN
+agrees	@griz	11110	@gri	z
+cut	kVt	111	kVt	
+cut	kVt	111	kVt	
+cut	kVt	111	kVt	
+cutting	kVtIN	11100	kVt	IN
+cuts	kVts	1110	kVt	s
+require	rIkw2@r	1111111	rIkw2@r	
+required	rIkw2@rd	11111110	rIkw2@r	d
+required	rIkw2@rd	11111110	rIkw2@r	d
+requiring	rIkw2@rIN	111111100	rIkw2@r	IN
+requires	rIkw2@rz	11111110	rIkw2@r	z
+pick	pIk	111	pIk	
+picked	pIkt	1110	pIk	t
+picked	pIkt	1110	pIk	t
+picking	pIkIN	11100	pIk	IN
+picks	pIks	1110	pIk	s
+wish	wIS	111	wIS	
+wished	wISt	1110	wIS	t
+wished	wISt	1110	wIS	t
+wishing	wISIN	11100	wIS	IN
+wishes	wISIz	11100	wIS	Iz
+pull	pUl	111	pUl	
+pulled	pUld	1110	pUl	d
+pulled	pUld	1110	pUl	d
+pulling	pUlIN	11100	pUl	IN
+pulls	pUlz	1110	pUl	z
+cover	kVv@r	11111	kVv@r	
+covered	kVv@rd	111110	kVv@r	d
+covered	kVv@rd	111110	kVv@r	d
+covering	kVv@rIN	1111100	kVv@r	IN
+covers	kVv@rz	111110	kVv@r	z
+choose	Juz	101	Jz	u
+chose	J5z	101	Jz	5
+chosen	J5zH	1010	Jz	5H
+choosing	JuzIN	10100	Jz	uIN
+chosen	J5zH	1010	Jz	5H
+chooses	JuzIz	10100	Jz	uIz
+listen	lIsH	1111	lIsH	
+listened	lIsHd	11110	lIsH	d
+listened	lIsHd	11110	lIsH	d
+listening	lIsHIN	111100	lIsH	IN
+listens	lIsHz	11110	lIsH	z
+raise	r1z	111	r1z	
+raised	r1zd	1110	r1z	d
+raised	r1zd	1110	r1z	d
+raising	r1zIN	11100	r1z	IN
+raises	r1zIz	11100	r1z	Iz
+wonder	wVnd@r	111111	wVnd@r	
+wondered	wVnd@rd	1111110	wVnd@r	d
+wondered	wVnd@rd	1111110	wVnd@r	d
+wondering	wVnd@rIN	11111100	wVnd@r	IN
+wonders	wVnd@rz	1111110	wVnd@r	z
+cause	k$z	111	k$z	
+caused	k$zd	1110	k$z	d
+caused	k$zd	1110	k$z	d
+causing	k$zIN	11100	k$z	IN
+causes	k$zIz	11100	k$z	Iz
+arrive	@r2v	1111	@r2v	
+arrived	@r2vd	11110	@r2v	d
+arrived	@r2vd	11110	@r2v	d
+arriving	@r2vIN	111100	@r2v	IN
+arrives	@r2vz	11110	@r2v	z
+laugh	l#f	111	l#f	
+laughed	l#ft	1110	l#f	t
+laughed	l#ft	1110	l#f	t
+laughing	l#fIN	11100	l#f	IN
+laughs	l#fs	1110	l#f	s
+forget	f@gEt	11101	f@gt	E
+forgot	f@gQt	11101	f@gt	Q
+forgotten	f@gQtH	111010	f@gt	QH
+forgetting	f@gEtIN	1110100	f@gt	EIN
+forgotten	f@gQtH	111010	f@gt	QH
+forgets	f@gEts	111010	f@gt	Es
+answer	#ns@r	11111	#ns@r	
+answered	#ns@rd	111110	#ns@r	d
+answered	#ns@rd	111110	#ns@r	d
+answering	#ns@rIN	1111100	#ns@r	IN
+answers	#ns@rz	111110	#ns@r	z
+plan	pl{n	1111	pl{n	
+planned	pl{nd	11110	pl{n	d
+planned	pl{nd	11110	pl{n	d
+planning	pl{nIN	111100	pl{n	IN
+plans	pl{nz	11110	pl{n	z
+describe	dIskr2b	1111111	dIskr2b	
+described	dIskr2bd	11111110	dIskr2b	d
+described	dIskr2bd	11111110	dIskr2b	d
+describing	dIskr2bIN	111111100	dIskr2b	IN
+describes	dIskr2bz	11111110	dIskr2b	z
+smile	sm2l	1111	sm2l	
+smiled	sm2ld	11110	sm2l	d
+smiled	sm2ld	11110	sm2l	d
+smiling	sm2lIN	111100	sm2l	IN
+smiles	sm2lz	11110	sm2l	z
+create	kri1t	11111	kri1t	
+created	kri1tId	1111100	kri1t	Id
+created	kri1tId	1111100	kri1t	Id
+creating	kri1tIN	1111100	kri1t	IN
+creates	kri1ts	111110	kri1t	s
+throw	Tr5	110	Tr	5
+threw	Tru	110	Tr	u
+thrown	Tr5n	1100	Tr	5n
+throwing	Tr5IN	11000	Tr	5IN
+thrown	Tr5n	1100	Tr	5n
+throws	Tr5z	1100	Tr	5z
+receive	rIsiv	11111	rIsiv	
+received	rIsivd	111110	rIsiv	d
+received	rIsivd	111110	rIsiv	d
+receiving	rIsivIN	1111100	rIsiv	IN
+receives	rIsivz	111110	rIsiv	z
+win	wIn	101	wn	I
+won	wVn	101	wn	V
+won	wVn	101	wn	V
+winning	wInIN	10100	wn	IIN
+wins	wInz	1010	wn	Iz
+prove	pruv	1111	pruv	
+proved	pruvd	11110	pruv	d
+proven	pruvH	11110	pruv	H
+proved	pruvd	11110	pruv	d
+proving	pruvIN	111100	pruv	IN
+proven	pruvH	11110	pruv	H
+proves	pruvz	11110	pruv	z
+serve	s3v	111	s3v	
+served	s3vd	1110	s3v	d
+served	s3vd	1110	s3v	d
+serving	s3vIN	11100	s3v	IN
+serves	s3vz	1110	s3v	z
+enjoy	In_4	1111	In_4	
+enjoyed	In_4d	11110	In_4	d
+enjoyed	In_4d	11110	In_4	d
+enjoying	In_4IN	111100	In_4	IN
+enjoys	In_4z	11110	In_4	z
+fail	f1l	111	f1l	
+failed	f1ld	1110	f1l	d
+failed	f1ld	1110	f1l	d
+failing	f1lIN	11100	f1l	IN
+fails	f1lz	1110	f1l	z
+sell	sEl	101	sl	E
+sold	s5ld	1010	sl	5d
+sold	s5ld	1010	sl	5d
+selling	sElIN	10100	sl	EIN
+sells	sElz	1010	sl	Ez
+join	_4n	111	_4n	
+joined	_4nd	1110	_4n	d
+joined	_4nd	1110	_4n	d
+joining	_4nIN	11100	_4n	IN
+joins	_4nz	1110	_4n	z
+teach	tiJ	100	t	iJ
+taught	t$t	100	t	$t
+taught	t$t	100	t	$t
+teaching	tiJIN	10000	t	iJIN
+teaches	tiJIz	10000	t	iJIz
+drop	drQp	1111	drQp	
+dropped	drQpt	11110	drQp	t
+dropped	drQpt	11110	drQp	t
+dropping	drQpIN	111100	drQp	IN
+drops	drQps	11110	drQp	s
+fight	f2t	101	ft	2
+fought	f$t	101	ft	$
+fought	f$t	101	ft	$
+fighting	f2tIN	10100	ft	2IN
+fights	f2ts	1010	ft	2s
+hang	h{N	101	hN	{
+hung	hVN	101	hN	V
+hanged	h{Nd	1110	h{N	d
+hanged	h{Nd	1010	hN	{d
+hung	hVN	101	hN	V
+hanging	h{NIN	10100	hN	{IN
+hanged	h{Nd	1010	hN	{d
+hanged	h{Nd	1010	hN	{d
+hangs	h{Nz	1010	hN	{z
+force	f$s	111	f$s	
+forced	f$st	1110	f$s	t
+forced	f$st	1110	f$s	t
+forcing	f$sIN	11100	f$s	IN
+forces	f$sIz	11100	f$s	Iz
+end	End	111	End	
+ended	EndId	11100	End	Id
+ended	EndId	11100	End	Id
+ending	EndIN	11100	End	IN
+ends	Endz	1110	End	z
+discover	dIskVv@r	11111111	dIskVv@r	
+discovered	dIskVv@rd	111111110	dIskVv@r	d
+discovered	dIskVv@rd	111111110	dIskVv@r	d
+discovering	dIskVv@rIN	1111111100	dIskVv@r	IN
+discovers	dIskVv@rz	111111110	dIskVv@r	z
+recognize	rEk@gn2z	11111111	rEk@gn2z	
+recognized	rEk@gn2zd	111111110	rEk@gn2z	d
+recognized	rEk@gn2zd	111111110	rEk@gn2z	d
+recognizing	rEk@gn2zIN	1111111100	rEk@gn2z	IN
+recognizes	rEk@gn2zIz	1111111100	rEk@gn2z	Iz
+fill	fIl	111	fIl	
+filled	fIld	1110	fIl	d
+filled	fIld	1110	fIl	d
+filling	fIlIN	11100	fIl	IN
+fills	fIlz	1110	fIl	z
+face	f1s	111	f1s	
+faced	f1st	1110	f1s	t
+faced	f1st	1110	f1s	t
+facing	f1sIN	11100	f1s	IN
+faces	f1sIz	11100	f1s	Iz
+feed	fid	101	fd	i
+fed	fEd	101	fd	E
+fed	fEd	101	fd	E
+feeding	fidIN	10100	fd	iIN
+feeds	fidz	1010	fd	iz
+exist	IgzIst	111111	IgzIst	
+existed	IgzIstId	11111100	IgzIst	Id
+existed	IgzIstId	11111100	IgzIst	Id
+existing	IgzIstIN	11111100	IgzIst	IN
+exists	IgzIsts	1111110	IgzIst	s
+point	p4nt	1111	p4nt	
+pointed	p4ntId	111100	p4nt	Id
+pointed	p4ntId	111100	p4nt	Id
+pointing	p4ntIN	111100	p4nt	IN
+points	p4nts	11110	p4nt	s
+shake	S1k	101	Sk	1
+shook	SUk	101	Sk	U
+shaken	S1k@n	10100	Sk	1@n
+shaking	S1kIN	10100	Sk	1IN
+shaken	S1k@n	10100	Sk	1@n
+shakes	S1ks	1010	Sk	1s
+tend	tEnd	1111	tEnd	
+tended	tEndId	111100	tEnd	Id
+tended	tEndId	111100	tEnd	Id
+tending	tEndIN	111100	tEnd	IN
+tends	tEndz	11110	tEnd	z
+notice	n5tIs	11111	n5tIs	
+noticed	n5tIst	111110	n5tIs	t
+noticed	n5tIst	111110	n5tIs	t
+noticing	n5tIsIN	1111100	n5tIs	IN
+notices	n5tIsIz	1111100	n5tIs	Iz
+drink	drINk	11011	drNk	I
+drank	dr{Nk	11011	drNk	{
+drunk	drVNk	11011	drNk	V
+drinking	drINkIN	1101100	drNk	IIN
+drunk	drVNk	11011	drNk	V
+drinks	drINks	110110	drNk	Is
+enter	Ent@r	11111	Ent@r	
+entered	Ent@rd	111110	Ent@r	d
+entered	Ent@rd	111110	Ent@r	d
+entering	Ent@rIN	1111100	Ent@r	IN
+enters	Ent@rz	111110	Ent@r	z
+sleep	slip	1101	slp	i
+slept	slEpt	11010	slp	Et
+slept	slEpt	11010	slp	Et
+sleeping	slipIN	110100	slp	iIN
+sleeps	slips	11010	slp	is
+discuss	dIskVs	111111	dIskVs	
+discussed	dIskVst	1111110	dIskVs	t
+discussed	dIskVst	1111110	dIskVs	t
+discussing	dIskVsIN	11111100	dIskVs	IN
+discusses	dIskVsIz	11111100	dIskVs	Iz
+manage	m{nI_	11111	m{nI_	
+managed	m{nI_d	111110	m{nI_	d
+managed	m{nI_d	111110	m{nI_	d
+managing	m{nI_IN	1111100	m{nI_	IN
+manages	m{nI_Iz	1111100	m{nI_	Iz
+include	Inklud	111111	Inklud	
+included	InkludId	11111100	Inklud	Id
+included	InkludId	11111100	Inklud	Id
+includes	Inkludz	1111110	Inklud	z
+form	f$m	111	f$m	
+formed	f$md	1110	f$m	d
+formed	f$md	1110	f$m	d
+forming	f$mIN	11100	f$m	IN
+forms	f$mz	1110	f$m	z
+finish	fInIS	11111	fInIS	
+finished	fInISt	111110	fInIS	t
+finished	fInISt	111110	fInIS	t
+finishing	fInISIN	1111100	fInIS	IN
+finishes	fInISIz	1111100	fInIS	Iz
+sound	s6nd	1111	s6nd	
+sounded	s6ndId	111100	s6nd	Id
+sounded	s6ndId	111100	s6nd	Id
+sounding	s6ndIN	111100	s6nd	IN
+sounds	s6ndz	11110	s6nd	z
+marry	m{rI	1111	m{rI	
+married	m{rId	11110	m{rI	d
+married	m{rId	11110	m{rI	d
+marrying	m{rIIN	111100	m{rI	IN
+marries	m{rIz	11110	m{rI	z
+contain	k@nt1n	111111	k@nt1n	
+contained	k@nt1nd	1111110	k@nt1n	d
+contained	k@nt1nd	1111110	k@nt1n	d
+containing	k@nt1nIN	11111100	k@nt1n	IN
+contains	k@nt1nz	1111110	k@nt1n	z
+push	pUS	111	pUS	
+pushed	pUSt	1110	pUS	t
+pushed	pUSt	1110	pUS	t
+pushing	pUSIN	11100	pUS	IN
+pushes	pUSIz	11100	pUS	Iz
+occur	@k3r	1111	@k3r	
+occurred	@k3rd	11110	@k3r	d
+occurred	@k3rd	11110	@k3r	d
+occurring	@k3rIN	111100	@k3r	IN
+occurs	@k3rz	11110	@k3r	z
+establish	Ist{blIS	11111111	Ist{blIS	
+established	Ist{blISt	111111110	Ist{blIS	t
+established	Ist{blISt	111111110	Ist{blIS	t
+establishing	Ist{blISIN	1111111100	Ist{blIS	IN
+establishes	Ist{blISIz	1111111100	Ist{blIS	Iz
+imagine	Im{_In	111111	Im{_In	
+imagined	Im{_Ind	1111110	Im{_In	d
+imagined	Im{_Ind	1111110	Im{_In	d
+imagining	Im{_InIN	11111100	Im{_In	IN
+imagines	Im{_Inz	1111110	Im{_In	z
+act	{kt	111	{kt	
+acted	{ktId	11100	{kt	Id
+acted	{ktId	11100	{kt	Id
+acting	{ktIN	11100	{kt	IN
+acts	{kts	1110	{kt	s
+save	s1v	111	s1v	
+saved	s1vd	1110	s1v	d
+saved	s1vd	1110	s1v	d
+saving	s1vIN	11100	s1v	IN
+saves	s1vz	1110	s1v	z
+care	k8r	111	k8r	
+cared	k8rd	1110	k8r	d
+cared	k8rd	1110	k8r	d
+caring	k8rIN	11100	k8r	IN
+cares	k8rz	1110	k8r	z
+stare	st8r	1111	st8r	
+stared	st8rd	11110	st8r	d
+stared	st8rd	11110	st8r	d
+staring	st8rIN	111100	st8r	IN
+stares	st8rz	11110	st8r	z
+cry	kr2	111	kr2	
+cried	kr2d	1110	kr2	d
+cried	kr2d	1110	kr2	d
+crying	kr2IN	11100	kr2	IN
+cries	kr2z	1110	kr2	z
+close	kl5z	1111	kl5z	
+closed	kl5zd	11110	kl5z	d
+closed	kl5zd	11110	kl5z	d
+closing	kl5zIN	111100	kl5z	IN
+closes	kl5zIz	111100	kl5z	Iz
+suffer	sVf@r	11111	sVf@r	
+suffered	sVf@rd	111110	sVf@r	d
+suffered	sVf@rd	111110	sVf@r	d
+suffering	sVf@rIN	1111100	sVf@r	IN
+suffers	sVf@rz	111110	sVf@r	z
+seek	sik	100	s	ik
+sought	s$t	100	s	$t
+sought	s$t	100	s	$t
+seeking	sikIN	10000	s	ikIN
+seeks	siks	1000	s	iks
+share	S8r	111	S8r	
+shared	S8rd	1110	S8r	d
+shared	S8rd	1110	S8r	d
+sharing	S8rIN	11100	S8r	IN
+shares	S8rz	1110	S8r	z
+argue	#gju	1111	#gju	
+argued	#gjud	11110	#gju	d
+argued	#gjud	11110	#gju	d
+arguing	#gjuIN	111100	#gju	IN
+argues	#gjuz	11110	#gju	z
+reduce	rIdjus	111111	rIdjus	
+reduced	rIdjust	1111110	rIdjus	t
+reduced	rIdjust	1111110	rIdjus	t
+reducing	rIdjusIN	11111100	rIdjus	IN
+reduces	rIdjusIz	11111100	rIdjus	Iz
+achieve	@Jiv	1111	@Jiv	
+achieved	@Jivd	11110	@Jiv	d
+achieved	@Jivd	11110	@Jiv	d
+achieving	@JivIN	111100	@Jiv	IN
+achieves	@Jivz	11110	@Jiv	z
+support	s@p$t	11111	s@p$t	
+supported	s@p$tId	1111100	s@p$t	Id
+supported	s@p$tId	1111100	s@p$t	Id
+supporting	s@p$tIN	1111100	s@p$t	IN
+supports	s@p$ts	111110	s@p$t	s
+apply	@pl2	1111	@pl2	
+applied	@pl2d	11110	@pl2	d
+applied	@pl2d	11110	@pl2	d
+applying	@pl2IN	111100	@pl2	IN
+applies	@pl2z	11110	@pl2	z
+study	stVdI	11111	stVdI	
+studied	stVdId	111110	stVdI	d
+studied	stVdId	111110	stVdI	d
+studying	stVdIIN	1111100	stVdI	IN
+studies	stVdIz	111110	stVdI	z
+thank	T{Nk	1111	T{Nk	
+thanked	T{Nkt	11110	T{Nk	t
+thanked	T{Nkt	11110	T{Nk	t
+thanking	T{NkIN	111100	T{Nk	IN
+thanks	T{Nks	11110	T{Nk	s
+avoid	@v4d	1111	@v4d	
+avoided	@v4dId	111100	@v4d	Id
+avoided	@v4dId	111100	@v4d	Id
+avoiding	@v4dIN	111100	@v4d	IN
+avoids	@v4dz	11110	@v4d	z
+refuse	rIfjuz	111111	rIfjuz	
+refused	rIfjuzd	1111110	rIfjuz	d
+refused	rIfjuzd	1111110	rIfjuz	d
+refusing	rIfjuzIN	11111100	rIfjuz	IN
+refuses	rIfjuzIz	11111100	rIfjuz	Iz
+mention	mEnSH	11111	mEnSH	
+mentioned	mEnSHd	111110	mEnSH	d
+mentioned	mEnSHd	111110	mEnSH	d
+mentioning	mEnSHIN	1111100	mEnSH	IN
+mentions	mEnSHz	111110	mEnSH	z
+accord	@k$d	1111	@k$d	
+accorded	@k$dId	111100	@k$d	Id
+accorded	@k$dId	111100	@k$d	Id
+according	@k$dIN	111100	@k$d	IN
+accords	@k$dz	11110	@k$d	z
+strike	str2k	11101	strk	2
+struck	strVk	11101	strk	V
+struck	strVk	11101	strk	V
+striking	str2kIN	1110100	strk	2IN
+strikes	str2ks	111010	strk	2s
+visit	vIzIt	11111	vIzIt	
+visited	vIzItId	1111100	vIzIt	Id
+visited	vIzItId	1111100	vIzIt	Id
+visiting	vIzItIN	1111100	vIzIt	IN
+visits	vIzIts	111110	vIzIt	s
+assume	@sjum	11111	@sjum	
+assumed	@sjumd	111110	@sjum	d
+assumed	@sjumd	111110	@sjum	d
+assuming	@sjumIN	1111100	@sjum	IN
+assumes	@sjumz	111110	@sjum	z
+touch	tVJ	111	tVJ	
+touched	tVJt	1110	tVJ	t
+touched	tVJt	1110	tVJ	t
+touching	tVJIN	11100	tVJ	IN
+touches	tVJIz	11100	tVJ	Iz
+encourage	InkVrI_	1111111	InkVrI_	
+encouraged	InkVrI_d	11111110	InkVrI_	d
+encouraged	InkVrI_d	11111110	InkVrI_	d
+encouraging	InkVrI_IN	111111100	InkVrI_	IN
+encourages	InkVrI_Iz	111111100	InkVrI_	Iz
+bear	b8r	101	br	8
+bore	b$r	101	br	$
+borne	b$rn	1010	br	$n
+bearing	b8rIN	10100	br	8IN
+borne	b$rn	1010	br	$n
+bears	b8rz	1010	br	8z
+report	rIp$t	11111	rIp$t	
+reported	rIp$tId	1111100	rIp$t	Id
+reported	rIp$tId	1111100	rIp$t	Id
+reporting	rIp$tIN	1111100	rIp$t	IN
+reports	rIp$ts	111110	rIp$t	s
+express	IksprEs	1111111	IksprEs	
+expressed	IksprEst	11111110	IksprEs	t
+expressed	IksprEst	11111110	IksprEs	t
+expressing	IksprEsIN	111111100	IksprEs	IN
+expresses	IksprEsIz	111111100	IksprEs	Iz
+deal	dil	101	dl	i
+dealt	dElt	1010	dl	Et
+dealt	dElt	1010	dl	Et
+dealing	dilIN	10100	dl	iIN
+deals	dilz	1010	dl	iz
+remove	rImuv	11111	rImuv	
+removed	rImuvd	111110	rImuv	d
+removed	rImuvd	111110	rImuv	d
+removing	rImuvIN	1111100	rImuv	IN
+removes	rImuvz	111110	rImuv	z
+destroy	dIstr4	111111	dIstr4	
+destroyed	dIstr4d	1111110	dIstr4	d
+destroyed	dIstr4d	1111110	dIstr4	d
+destroying	dIstr4IN	11111100	dIstr4	IN
+destroys	dIstr4z	1111110	dIstr4	z
+regard	rIg#d	11111	rIg#d	
+regarded	rIg#dId	1111100	rIg#d	Id
+regarded	rIg#dId	1111100	rIg#d	Id
+regarding	rIg#dIN	1111100	rIg#d	IN
+regards	rIg#dz	111110	rIg#d	z
+ought	$t	11	$t	
+ought	$t	11	$t	
+represent	rEprIzEnt	111111111	rEprIzEnt	
+represented	rEprIzEntId	11111111100	rEprIzEnt	Id
+represented	rEprIzEntId	11111111100	rEprIzEnt	Id
+representing	rEprIzEntIN	11111111100	rEprIzEnt	IN
+represents	rEprIzEnts	1111111110	rEprIzEnt	s
+hide	h2d	101	hd	2
+hid	hId	101	hd	I
+hid	hId	101	hd	I
+hidden	hIdH	1010	hd	IH
+hiding	h2dIN	10100	hd	2IN
+hidden	hIdH	1010	hd	IH
+hides	h2dz	1010	hd	2z
+place	pl1s	1111	pl1s	
+placed	pl1st	11110	pl1s	t
+placed	pl1st	11110	pl1s	t
+placing	pl1sIN	111100	pl1s	IN
+claim	kl1m	1111	kl1m	
+claimed	kl1md	11110	kl1m	d
+claimed	kl1md	11110	kl1m	d
+claiming	kl1mIN	111100	kl1m	IN
+claims	kl1mz	11110	kl1m	z
+hit	hIt	111	hIt	
+hit	hIt	111	hIt	
+hit	hIt	111	hIt	
+hitting	hItIN	11100	hIt	IN
+hits	hIts	1110	hIt	s
+present	prIzEnt	1111111	prIzEnt	
+presented	prIzEntId	111111100	prIzEnt	Id
+presented	prIzEntId	111111100	prIzEnt	Id
+presenting	prIzEntIN	111111100	prIzEnt	IN
+presents	prIzEnts	11111110	prIzEnt	s
+treat	trit	1111	trit	
+treated	tritId	111100	trit	Id
+treated	tritId	111100	trit	Id
+treating	tritIN	111100	trit	IN
+treats	trits	11110	trit	s
+admit	@dmIt	11111	@dmIt	
+admitted	@dmItId	1111100	@dmIt	Id
+admitted	@dmItId	1111100	@dmIt	Id
+admitting	@dmItIN	1111100	@dmIt	IN
+admits	@dmIts	111110	@dmIt	s
+worry	wVrI	1111	wVrI	
+worried	wVrId	11110	wVrI	d
+worried	wVrId	11110	wVrI	d
+worrying	wVrIIN	111100	wVrI	IN
+worries	wVrIz	11110	wVrI	z
+fly	fl2	110	fl	2
+flew	flu	110	fl	u
+flown	fl5n	1100	fl	5n
+flying	fl2IN	11000	fl	2IN
+flown	fl5n	1100	fl	5n
+flies	fl2z	1100	fl	2z
+maintain	m1nt1n	111111	m1nt1n	
+maintained	m1nt1nd	1111110	m1nt1n	d
+maintained	m1nt1nd	1111110	m1nt1n	d
+maintaining	m1nt1nIN	11111100	m1nt1n	IN
+maintains	m1nt1nz	1111110	m1nt1n	z
+ring	rIN	101	rN	I
+rang	r{N	101	rN	{
+ringed	rINd	1110	rIN	d
+rung	rVN	101	rN	V
+ringed	rINd	1010	rN	Id
+ringing	rININ	10100	rN	IIN
+ringed	rINd	1010	rN	Id
+rung	rVN	101	rN	V
+ringed	rINd	1010	rN	Id
+rings	rINz	1010	rN	Iz
+travel	tr{vP	11111	tr{vP	
+travelled	tr{vPd	111110	tr{vP	d
+travelled	tr{vPd	111110	tr{vP	d
+travelling	tr{vPIN	1111100	tr{vP	IN
+travels	tr{vPz	111110	tr{vP	z
+improve	Impruv	111111	Impruv	
+improved	Impruvd	1111110	Impruv	d
+improved	Impruvd	1111110	Impruv	d
+improving	ImpruvIN	11111100	Impruv	IN
+improves	Impruvz	1111110	Impruv	z
+stick	stIk	1101	stk	I
+stuck	stVk	1101	stk	V
+stuck	stVk	1101	stk	V
+sticking	stIkIN	110100	stk	IIN
+sticks	stIks	11010	stk	Is
+prevent	prIvEnt	1111111	prIvEnt	
+prevented	prIvEntId	111111100	prIvEnt	Id
+prevented	prIvEntId	111111100	prIvEnt	Id
+preventing	prIvEntIN	111111100	prIvEnt	IN
+prevents	prIvEnts	11111110	prIvEnt	s
+wash	wQS	111	wQS	
+washed	wQSt	1110	wQS	t
+washed	wQSt	1110	wQS	t
+washing	wQSIN	11100	wQS	IN
+washes	wQSIz	11100	wQS	Iz
+climb	kl2m	1111	kl2m	
+climbed	kl2md	11110	kl2m	d
+climbed	kl2md	11110	kl2m	d
+climbing	kl2mIN	111100	kl2m	IN
+climbs	kl2mz	11110	kl2m	z
+hate	h1t	111	h1t	
+hated	h1tId	11100	h1t	Id
+hated	h1tId	11100	h1t	Id
+hating	h1tIN	11100	h1t	IN
+hates	h1ts	1110	h1t	s
+introduce	Intr@djus	111111111	Intr@djus	
+introduced	Intr@djust	1111111110	Intr@djus	t
+introduced	Intr@djust	1111111110	Intr@djus	t
+introducing	Intr@djusIN	11111111100	Intr@djus	IN
+introduces	Intr@djusIz	11111111100	Intr@djus	Iz
+matter	m{t@r	11111	m{t@r	
+mattered	m{t@rd	111110	m{t@r	d
+mattered	m{t@rd	111110	m{t@r	d
+mattering	m{t@rIN	1111100	m{t@r	IN
+matters	m{t@rz	111110	m{t@r	z
+survive	s@v2v	11111	s@v2v	
+survived	s@v2vd	111110	s@v2v	d
+survived	s@v2vd	111110	s@v2v	d
+surviving	s@v2vIN	1111100	s@v2v	IN
+survives	s@v2vz	111110	s@v2v	z
+own	5n	11	5n	
+owned	5nd	110	5n	d
+owned	5nd	110	5n	d
+owning	5nIN	1100	5n	IN
+owns	5nz	110	5n	z
+arrange	@r1n_	11111	@r1n_	
+arranged	@r1n_d	111110	@r1n_	d
+arranged	@r1n_d	111110	@r1n_	d
+arranging	@r1n_IN	1111100	@r1n_	IN
+arranges	@r1n_Iz	1111100	@r1n_	Iz
+lift	lIft	1111	lIft	
+lifted	lIftId	111100	lIft	Id
+lifted	lIftId	111100	lIft	Id
+lifting	lIftIN	111100	lIft	IN
+lifts	lIfts	11110	lIft	s
+spread	sprEd	11111	sprEd	
+spread	sprEd	11111	sprEd	
+spread	sprEd	11111	sprEd	
+spreading	sprEdIN	1111100	sprEd	IN
+spreads	sprEdz	111110	sprEd	z
+burn	b3n	111	b3n	
+burned	b3nd	1110	b3n	d
+burnt	b3nt	1110	b3n	t
+burned	b3nd	1110	b3n	d
+burnt	b3nt	1110	b3n	t
+burning	b3nIN	11100	b3n	IN
+burnt	b3nt	1110	b3n	t
+burnt	b3nt	1110	b3n	t
+burns	b3nz	1110	b3n	z
+press	prEs	1111	prEs	
+pressed	prEst	11110	prEs	t
+pressed	prEst	11110	prEs	t
+pressing	prEsIN	111100	prEs	IN
+presses	prEsIz	111100	prEs	Iz
+gain	g1n	111	g1n	
+gained	g1nd	1110	g1n	d
+gained	g1nd	1110	g1n	d
+gaining	g1nIN	11100	g1n	IN
+gains	g1nz	1110	g1n	z
+design	dIz2n	11111	dIz2n	
+designed	dIz2nd	111110	dIz2n	d
+designed	dIz2nd	111110	dIz2n	d
+designing	dIz2nIN	1111100	dIz2n	IN
+designs	dIz2nz	111110	dIz2n	z
+lay	l1	11	l1	
+laid	l1d	110	l1	d
+laid	l1d	110	l1	d
+lays	l1z	110	l1	z
+laying	l1IN	1100	l1	IN
+control	k@ntr5l	1111111	k@ntr5l	
+controlled	k@ntr5ld	11111110	k@ntr5l	d
+controlled	k@ntr5ld	11111110	k@ntr5l	d
+controlling	k@ntr5lIN	111111100	k@ntr5l	IN
+controls	k@ntr5lz	11111110	k@ntr5l	z
+publish	pVblIS	111111	pVblIS	
+published	pVblISt	1111110	pVblIS	t
+published	pVblISt	1111110	pVblIS	t
+publishing	pVblISIN	11111100	pVblIS	IN
+publishes	pVblISIz	11111100	pVblIS	Iz
+beat	bit	111	bit	
+beat	bit	111	bit	
+beaten	bitH	1110	bit	H
+beating	bitIN	11100	bit	IN
+beaten	bitH	1110	bit	H
+beats	bits	1110	bit	s
+order	$d@r	1111	$d@r	
+ordered	$d@rd	11110	$d@r	d
+ordered	$d@rd	11110	$d@r	d
+ordering	$d@rIN	111100	$d@r	IN
+orders	$d@rz	11110	$d@r	z
+protect	pr@tEkt	1111111	pr@tEkt	
+protected	pr@tEktId	111111100	pr@tEkt	Id
+protected	pr@tEktId	111111100	pr@tEkt	Id
+protecting	pr@tEktIN	111111100	pr@tEkt	IN
+protects	pr@tEkts	11111110	pr@tEkt	s
+miss	mIs	111	mIs	
+missed	mIst	1110	mIs	t
+missed	mIst	1110	mIs	t
+missing	mIsIN	11100	mIs	IN
+misses	mIsIz	11100	mIs	Iz
+reply	rIpl2	11111	rIpl2	
+replied	rIpl2d	111110	rIpl2	d
+replied	rIpl2d	111110	rIpl2	d
+replying	rIpl2IN	1111100	rIpl2	IN
+replies	rIpl2z	111110	rIpl2	z
+compare	k@mp8r	111111	k@mp8r	
+compared	k@mp8rd	1111110	k@mp8r	d
+compared	k@mp8rd	1111110	k@mp8r	d
+comparing	k@mp8rIN	11111100	k@mp8r	IN
+compares	k@mp8rz	1111110	k@mp8r	z
+blow	bl5	110	bl	5
+blew	blu	110	bl	u
+blown	bl5n	1100	bl	5n
+blowing	bl5IN	11000	bl	5IN
+blown	bl5n	1100	bl	5n
+blows	bl5z	1100	bl	5z
+shout	S6t	111	S6t	
+shouted	S6tId	11100	S6t	Id
+shouted	S6tId	11100	S6t	Id
+shouting	S6tIN	11100	S6t	IN
+shouts	S6ts	1110	S6t	s
+check	JEk	111	JEk	
+checked	JEkt	1110	JEk	t
+checked	JEkt	1110	JEk	t
+checking	JEkIN	11100	JEk	IN
+checks	JEks	1110	JEk	s
+belong	bIlQN	11111	bIlQN	
+belonged	bIlQNd	111110	bIlQN	d
+belonged	bIlQNd	111110	bIlQN	d
+belonging	bIlQNIN	1111100	bIlQN	IN
+belongs	bIlQNz	111110	bIlQN	z
+operate	Qp@r1t	111111	Qp@r1t	
+operated	Qp@r1tId	11111100	Qp@r1t	Id
+operated	Qp@r1tId	11111100	Qp@r1t	Id
+operating	Qp@r1tIN	11111100	Qp@r1t	IN
+operates	Qp@r1ts	1111110	Qp@r1t	s
+prefer	prIf3r	111111	prIf3r	
+preferred	prIf3rd	1111110	prIf3r	d
+preferred	prIf3rd	1111110	prIf3r	d
+preferring	prIf3rIN	11111100	prIf3r	IN
+prefers	prIf3rz	1111110	prIf3r	z
+dress	drEs	1111	drEs	
+dressed	drEst	11110	drEs	t
+dressed	drEst	11110	drEs	t
+dressing	drEsIN	111100	drEs	IN
+dresses	drEsIz	111100	drEs	Iz
+emerge	Im3_	1111	Im3_	
+emerged	Im3_d	11110	Im3_	d
+emerged	Im3_d	11110	Im3_	d
+emerging	Im3_IN	111100	Im3_	IN
+emerges	Im3_Iz	111100	Im3_	Iz
+demand	dIm#nd	111111	dIm#nd	
+demanded	dIm#ndId	11111100	dIm#nd	Id
+demanded	dIm#ndId	11111100	dIm#nd	Id
+demanding	dIm#ndIN	11111100	dIm#nd	IN
+demands	dIm#ndz	1111110	dIm#nd	z
+settle	sEtP	1111	sEtP	
+settled	sEtPd	11110	sEtP	d
+settled	sEtPd	11110	sEtP	d
+settling	sEtPIN	111100	sEtP	IN
+settles	sEtPz	11110	sEtP	z
+approach	@pr5J	11111	@pr5J	
+approached	@pr5Jt	111110	@pr5J	t
+approached	@pr5Jt	111110	@pr5J	t
+approaching	@pr5JIN	1111100	@pr5J	IN
+approaches	@pr5JIz	1111100	@pr5J	Iz
+intend	IntEnd	111111	IntEnd	
+intended	IntEndId	11111100	IntEnd	Id
+intended	IntEndId	11111100	IntEnd	Id
+intending	IntEndIN	11111100	IntEnd	IN
+intends	IntEndz	1111110	IntEnd	z
+prepare	prIp8r	111111	prIp8r	
+prepared	prIp8rd	1111110	prIp8r	d
+prepared	prIp8rd	1111110	prIp8r	d
+preparing	prIp8rIN	11111100	prIp8r	IN
+prepares	prIp8rz	1111110	prIp8r	z
+nod	nQd	111	nQd	
+nodded	nQdId	11100	nQd	Id
+nodded	nQdId	11100	nQd	Id
+nodding	nQdIN	11100	nQd	IN
+nods	nQdz	1110	nQd	z
+pour	p$r	111	p$r	
+poured	p$rd	1110	p$r	d
+poured	p$rd	1110	p$r	d
+pouring	p$rIN	11100	p$r	IN
+pours	p$rz	1110	p$r	z
+reveal	rIvil	11111	rIvil	
+revealed	rIvild	111110	rIvil	d
+revealed	rIvild	111110	rIvil	d
+revealing	rIvilIN	1111100	rIvil	IN
+reveals	rIvilz	111110	rIvil	z
+fear	f7r	111	f7r	
+feared	f7rd	1110	f7r	d
+feared	f7rd	1110	f7r	d
+fearing	f7rIN	11100	f7r	IN
+fears	f7rz	1110	f7r	z
+sing	sIN	101	sN	I
+sang	s{N	101	sN	{
+sung	sVN	101	sN	V
+singing	sININ	10100	sN	IIN
+sung	sVN	101	sN	V
+sings	sINz	1010	sN	Iz
+attempt	@tEmpt	111111	@tEmpt	
+attempted	@tEmptId	11111100	@tEmpt	Id
+attempted	@tEmptId	11111100	@tEmpt	Id
+attempting	@tEmptIN	11111100	@tEmpt	IN
+attempts	@tEmpts	1111110	@tEmpt	s
+perform	p@f$m	11111	p@f$m	
+performed	p@f$md	111110	p@f$m	d
+performed	p@f$md	111110	p@f$m	d
+performing	p@f$mIN	1111100	p@f$m	IN
+performs	p@f$mz	111110	p@f$m	z
+reflect	rIflEkt	1111111	rIflEkt	
+reflected	rIflEktId	111111100	rIflEkt	Id
+reflected	rIflEktId	111111100	rIflEkt	Id
+reflecting	rIflEktIN	111111100	rIflEkt	IN
+reflects	rIflEkts	11111110	rIflEkt	s
+insist	InsIst	111111	InsIst	
+insisted	InsIstId	11111100	InsIst	Id
+insisted	InsIstId	11111100	InsIst	Id
+insisting	InsIstIN	11111100	InsIst	IN
+insists	InsIsts	1111110	InsIst	s
+examine	Igz{mIn	1111111	Igz{mIn	
+examined	Igz{mInd	11111110	Igz{mIn	d
+examined	Igz{mInd	11111110	Igz{mIn	d
+examining	Igz{mInIN	111111100	Igz{mIn	IN
+examines	Igz{mInz	11111110	Igz{mIn	z
+guess	gEs	111	gEs	
+guessed	gEst	1110	gEs	t
+guessed	gEst	1110	gEs	t
+guessing	gEsIN	11100	gEs	IN
+guesses	gEsIz	11100	gEs	Iz
+gather	g{D@r	11110	g{D@	r
+gathered	g{D@d	11110	g{D@	d
+gathered	g{D@d	11110	g{D@	d
+gathering	g{D@rIN	1111000	g{D@	rIN
+gathers	g{D@z	11110	g{D@	z
+promise	prQmIs	111111	prQmIs	
+promised	prQmIst	1111110	prQmIs	t
+promised	prQmIst	1111110	prQmIs	t
+promising	prQmIsIN	11111100	prQmIs	IN
+promises	prQmIsIz	11111100	prQmIs	Iz
+cross	krQs	1111	krQs	
+crossed	krQst	11110	krQs	t
+crossed	krQst	11110	krQs	t
+crossing	krQsIN	111100	krQs	IN
+crosses	krQsIz	111100	krQs	Iz
+replace	rIpl1s	111111	rIpl1s	
+replaced	rIpl1st	1111110	rIpl1s	t
+replaced	rIpl1st	1111110	rIpl1s	t
+replacing	rIpl1sIN	11111100	rIpl1s	IN
+replaces	rIpl1sIz	11111100	rIpl1s	Iz
+indicate	IndIk1t	1111111	IndIk1t	
+indicated	IndIk1tId	111111100	IndIk1t	Id
+indicated	IndIk1tId	111111100	IndIk1t	Id
+indicating	IndIk1tIN	111111100	IndIk1t	IN
+indicates	IndIk1ts	11111110	IndIk1t	s
+fit	fIt	111	fIt	
+fitted	fItId	11100	fIt	Id
+fitted	fItId	11100	fIt	Id
+fitting	fItIN	11100	fIt	IN
+fits	fIts	1110	fIt	s
+attend	@tEnd	11111	@tEnd	
+attended	@tEndId	1111100	@tEnd	Id
+attended	@tEndId	1111100	@tEnd	Id
+attending	@tEndIN	1111100	@tEnd	IN
+attends	@tEndz	111110	@tEnd	z
+shoot	Sut	101	St	u
+shot	SQt	101	St	Q
+shot	SQt	101	St	Q
+shooting	SutIN	10100	St	uIN
+shoots	Suts	1010	St	us
+announce	@n6ns	11111	@n6ns	
+announced	@n6nst	111110	@n6ns	t
+announced	@n6nst	111110	@n6ns	t
+announcing	@n6nsIN	1111100	@n6ns	IN
+announces	@n6nsIz	1111100	@n6ns	Iz
+extend	IkstEnd	1111111	IkstEnd	
+extended	IkstEndId	111111100	IkstEnd	Id
+extended	IkstEndId	111111100	IkstEnd	Id
+extending	IkstEndIN	111111100	IkstEnd	IN
+extends	IkstEndz	11111110	IkstEnd	z
+affect	@fEkt	11111	@fEkt	
+affected	@fEktId	1111100	@fEkt	Id
+affected	@fEktId	1111100	@fEkt	Id
+affecting	@fEktIN	1111100	@fEkt	IN
+affects	@fEkts	111110	@fEkt	s
+lean	lin	111	lin	
+leaned	lind	1110	lin	d
+leaned	lind	1110	lin	d
+leant	lEnt	1010	ln	Et
+leaning	linIN	11100	lin	IN
+leant	lEnt	1010	ln	Et
+leant	lEnt	1010	ln	Et
+leans	linz	1110	lin	z
+roll	r5l	111	r5l	
+rolled	r5ld	1110	r5l	d
+rolled	r5ld	1110	r5l	d
+rolling	r5lIN	11100	r5l	IN
+rolls	r5lz	1110	r5l	z
+paint	p1nt	1111	p1nt	
+painted	p1ntId	111100	p1nt	Id
+painted	p1ntId	111100	p1nt	Id
+painting	p1ntIN	111100	p1nt	IN
+paints	p1nts	11110	p1nt	s
+cook	kUk	111	kUk	
+cooked	kUkt	1110	kUk	t
+cooked	kUkt	1110	kUk	t
+cooking	kUkIN	11100	kUk	IN
+cooks	kUks	1110	kUk	s
+shut	SVt	111	SVt	
+shut	SVt	111	SVt	
+shut	SVt	111	SVt	
+shutting	SVtIN	11100	SVt	IN
+shuts	SVts	1110	SVt	s
+last	l#st	1111	l#st	
+lasted	l#stId	111100	l#st	Id
+lasted	l#stId	111100	l#st	Id
+lasting	l#stIN	111100	l#st	IN
+lasts	l#sts	11110	l#st	s
+ignore	Ign$r	11110	Ign$	r
+ignored	Ign$d	11110	Ign$	d
+ignored	Ign$d	11110	Ign$	d
+ignoring	Ign$rIN	1111000	Ign$	rIN
+ignores	Ign$z	11110	Ign$	z
+hand	h{nd	1111	h{nd	
+handed	h{ndId	111100	h{nd	Id
+handed	h{ndId	111100	h{nd	Id
+handing	h{ndIN	111100	h{nd	IN
+attack	@t{k	1111	@t{k	
+attacked	@t{kt	11110	@t{k	t
+attacked	@t{kt	11110	@t{k	t
+attacking	@t{kIN	111100	@t{k	IN
+attacks	@t{ks	11110	@t{k	s
+collect	k@lEkt	111111	k@lEkt	
+collected	k@lEktId	11111100	k@lEkt	Id
+collected	k@lEktId	11111100	k@lEkt	Id
+collecting	k@lEktIN	11111100	k@lEkt	IN
+collects	k@lEkts	1111110	k@lEkt	s
+observe	@bz3v	11111	@bz3v	
+observed	@bz3vd	111110	@bz3v	d
+observed	@bz3vd	111110	@bz3v	d
+observing	@bz3vIN	1111100	@bz3v	IN
+observes	@bz3vz	111110	@bz3v	z
+disappear	dIs@p7r	1111110	dIs@p7	r
+disappeared	dIs@p7d	1111110	dIs@p7	d
+disappeared	dIs@p7d	1111110	dIs@p7	d
+disappearing	dIs@p7rIN	111111000	dIs@p7	rIN
+disappears	dIs@p7z	1111110	dIs@p7	z
+identify	2dEntIf2	11111111	2dEntIf2	
+identified	2dEntIf2d	111111110	2dEntIf2	d
+identified	2dEntIf2d	111111110	2dEntIf2	d
+identifying	2dEntIf2IN	1111111100	2dEntIf2	IN
+identifies	2dEntIf2z	111111110	2dEntIf2	z
+stretch	strEJ	11111	strEJ	
+stretched	strEJt	111110	strEJ	t
+stretched	strEJt	111110	strEJ	t
+stretching	strEJIN	1111100	strEJ	IN
+stretches	strEJIz	1111100	strEJ	Iz
+obtain	@bt1n	11111	@bt1n	
+obtained	@bt1nd	111110	@bt1n	d
+obtained	@bt1nd	111110	@bt1n	d
+obtaining	@bt1nIN	1111100	@bt1n	IN
+obtains	@bt1nz	111110	@bt1n	z
+hurt	h3t	111	h3t	
+hurt	h3t	111	h3t	
+hurt	h3t	111	h3t	
+hurting	h3tIN	11100	h3t	IN
+hurts	h3ts	1110	h3t	s
+jump	_Vmp	1111	_Vmp	
+jumped	_Vmpt	11110	_Vmp	t
+jumped	_Vmpt	11110	_Vmp	t
+jumping	_VmpIN	111100	_Vmp	IN
+jumps	_Vmps	11110	_Vmp	s
+handle	h{ndP	11111	h{ndP	
+handled	h{ndPd	111110	h{ndP	d
+handled	h{ndPd	111110	h{ndP	d
+handling	h{ndPIN	1111100	h{ndP	IN
+handles	h{ndPz	111110	h{ndP	z
+combine	k@mb2n	111111	k@mb2n	
+combined	k@mb2nd	1111110	k@mb2n	d
+combined	k@mb2nd	1111110	k@mb2n	d
+combining	k@mb2nIN	11111100	k@mb2n	IN
+combines	k@mb2nz	1111110	k@mb2n	z
+succeed	s@ksid	111111	s@ksid	
+succeeded	s@ksidId	11111100	s@ksid	Id
+succeeded	s@ksidId	11111100	s@ksid	Id
+succeeding	s@ksidIN	11111100	s@ksid	IN
+succeeds	s@ksidz	1111110	s@ksid	z
+repeat	rIpit	11111	rIpit	
+repeated	rIpitId	1111100	rIpit	Id
+repeated	rIpitId	1111100	rIpit	Id
+repeating	rIpitIN	1111100	rIpit	IN
+repeats	rIpits	111110	rIpit	s
+wake	w1k	111	w1k	
+waked	w1kt	1110	w1k	t
+waked	w1kt	1110	w1k	t
+woken	w5k@n	1010	wk	5@
+waking	w1kIN	11100	w1k	IN
+woke	w5k	101	wk	5
+woken	w5k@n	1010	wk	5@
+wakes	w1ks	1110	w1k	s
+bend	bEnd	1110	bEn	d
+bent	bEnt	1110	bEn	t
+bent	bEnt	1110	bEn	t
+bending	bEndIN	111000	bEn	dIN
+bends	bEndz	11100	bEn	dz
+dance	d#ns	1111	d#ns	
+danced	d#nst	11110	d#ns	t
+danced	d#nst	11110	d#ns	t
+dancing	d#nsIN	111100	d#ns	IN
+dances	d#nsIz	111100	d#ns	Iz
+deny	dIn2	1111	dIn2	
+denied	dIn2d	11110	dIn2	d
+denied	dIn2d	11110	dIn2	d
+denying	dIn2IN	111100	dIn2	IN
+denies	dIn2z	11110	dIn2	z
+invite	Inv2t	11111	Inv2t	
+invited	Inv2tId	1111100	Inv2t	Id
+invited	Inv2tId	1111100	Inv2t	Id
+inviting	Inv2tIN	1111100	Inv2t	IN
+invites	Inv2ts	111110	Inv2t	s
