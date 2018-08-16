@@ -1,4 +1,6 @@
-Data from Michelle A. Fullwood and Timothy J. O'Donnell (2013). Learning Non-concatenative Morphology. In Proceedings of the Fourth Annual Workshop on Cognitive Modeling and Computational Linguistics (CMCL) and Chapter 2 of this dissertation.
+Data from Michelle A. Fullwood and Timothy J. O'Donnell (2013). Learning Non-concatenative Morphology. In Proceedings of the Fourth Annual Workshop on Cognitive Modeling and Computational Linguistics (CMCL).
+
+Also Chapter 2 of Fullwood (2018). If you use this dataset, please cite the paper above.
 
 
 File: quran.verbs.data
